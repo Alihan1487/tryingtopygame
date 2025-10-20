@@ -1,3 +1,4 @@
+
 emcc main.cpp \
   -s USE_SDL=2 \
   -s USE_SDL_IMAGE=2 \
